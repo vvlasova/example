@@ -11,3 +11,9 @@ font-size: 20px;
 p mark {
     background-color: cadetblue;
 }
+
+.text {
+text-transform: uppercase;
+color: grey;
+font: bold;
+}
