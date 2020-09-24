@@ -12,8 +12,24 @@ p mark {
     background-color: cadetblue;
 }
 
+p {
+    color: blue;
+}
+
 .text {
 text-transform: uppercase;
-color: grey;
-font: bold;
+color: grey !important;
+font-weight: bold;
+}
+
+.text-large {
+    width: 700px;
+}
+
+.text-small {
+    width: 300px;
+}
+
+#text {
+    color: pink;
 }
